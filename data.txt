@@ -1,0 +1,3 @@
+punto: 5 comentario: Excelente 
+punto: 1 comentario: No aprueba 
+punto: 3 comentario: Aprueba 
